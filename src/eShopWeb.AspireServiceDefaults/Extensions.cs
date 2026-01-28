@@ -61,7 +61,7 @@ public static class Extensions
                 })
                 .WithTracing(tracing =>
                 {
-                    if (builder.Environment.IsEnvironment("Development"))
+                    if (builder.Environment.EnvironmentName == "Development")
                     {
                         tracing.SetSampler<AlwaysOnSampler>();
                     }
@@ -109,7 +109,7 @@ public static class Extensions
 
         // Adding health checks endpoints to applications in non-development environments has security implications.
         // See https://aka.ms/dotnet/aspire/healthchecks for details before enabling these endpoints in non-development environments.
-        if (app.Environment.IsEnvironment("Development"))
+        if (app.Environment.EnvironmentName == "Development")
         {
             // All health checks must pass for app to be considered ready to accept traffic after starting
             app.MapHealthChecks("/health");

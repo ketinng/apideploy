@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "I4UbvYkpjLo=",
+  "dgSpecHash": "Eq86ck0OFl8=",
   "success": true,
   "projectFilePath": "C:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud2\\apideploy\\src\\PublicApi\\PublicApi.csproj",
   "expectedPackageFiles": [
@@ -110,9 +110,20 @@
     "C:\\Users\\ketin\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\10.0.0\\microsoft.entityframeworkcore.relational.10.0.0.nupkg.sha512",
     "C:\\Users\\ketin\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\10.0.0\\microsoft.entityframeworkcore.sqlserver.10.0.0.nupkg.sha512",
     "C:\\Users\\ketin\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\10.0.0\\microsoft.entityframeworkcore.tools.10.0.0.nupkg.sha512",
+    "C:\\Users\\ketin\\.nuget\\packages\\microsoft.extensions.ambientmetadata.application\\10.0.0\\microsoft.extensions.ambientmetadata.application.10.0.0.nupkg.sha512",
     "C:\\Users\\ketin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.3\\microsoft.extensions.apidescription.server.6.0.3.nupkg.sha512",
+    "C:\\Users\\ketin\\.nuget\\packages\\microsoft.extensions.compliance.abstractions\\10.0.0\\microsoft.extensions.compliance.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\ketin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.autoactivation\\10.0.0\\microsoft.extensions.dependencyinjection.autoactivation.10.0.0.nupkg.sha512",
     "C:\\Users\\ketin\\.nuget\\packages\\microsoft.extensions.dependencymodel\\10.0.0\\microsoft.extensions.dependencymodel.10.0.0.nupkg.sha512",
+    "C:\\Users\\ketin\\.nuget\\packages\\microsoft.extensions.diagnostics.exceptionsummarization\\10.0.0\\microsoft.extensions.diagnostics.exceptionsummarization.10.0.0.nupkg.sha512",
     "C:\\Users\\ketin\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\10.0.0\\microsoft.extensions.fileproviders.embedded.10.0.0.nupkg.sha512",
+    "C:\\Users\\ketin\\.nuget\\packages\\microsoft.extensions.http.diagnostics\\10.0.0\\microsoft.extensions.http.diagnostics.10.0.0.nupkg.sha512",
+    "C:\\Users\\ketin\\.nuget\\packages\\microsoft.extensions.http.resilience\\10.0.0\\microsoft.extensions.http.resilience.10.0.0.nupkg.sha512",
+    "C:\\Users\\ketin\\.nuget\\packages\\microsoft.extensions.resilience\\10.0.0\\microsoft.extensions.resilience.10.0.0.nupkg.sha512",
+    "C:\\Users\\ketin\\.nuget\\packages\\microsoft.extensions.servicediscovery\\10.0.0\\microsoft.extensions.servicediscovery.10.0.0.nupkg.sha512",
+    "C:\\Users\\ketin\\.nuget\\packages\\microsoft.extensions.servicediscovery.abstractions\\10.0.0\\microsoft.extensions.servicediscovery.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\ketin\\.nuget\\packages\\microsoft.extensions.telemetry\\10.0.0\\microsoft.extensions.telemetry.10.0.0.nupkg.sha512",
+    "C:\\Users\\ketin\\.nuget\\packages\\microsoft.extensions.telemetry.abstractions\\10.0.0\\microsoft.extensions.telemetry.abstractions.10.0.0.nupkg.sha512",
     "C:\\Users\\ketin\\.nuget\\packages\\microsoft.identity.client\\4.73.1\\microsoft.identity.client.4.73.1.nupkg.sha512",
     "C:\\Users\\ketin\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\4.73.1\\microsoft.identity.client.extensions.msal.4.73.1.nupkg.sha512",
     "C:\\Users\\ketin\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.3.0\\microsoft.identitymodel.abstractions.8.3.0.nupkg.sha512",
@@ -155,10 +166,18 @@
     "C:\\Users\\ketin\\.nuget\\packages\\nuget.projectmodel\\6.12.1\\nuget.projectmodel.6.12.1.nupkg.sha512",
     "C:\\Users\\ketin\\.nuget\\packages\\nuget.protocol\\6.12.1\\nuget.protocol.6.12.1.nupkg.sha512",
     "C:\\Users\\ketin\\.nuget\\packages\\nuget.versioning\\6.12.1\\nuget.versioning.6.12.1.nupkg.sha512",
-    "C:\\Users\\ketin\\.nuget\\packages\\opentelemetry\\1.9.0\\opentelemetry.1.9.0.nupkg.sha512",
-    "C:\\Users\\ketin\\.nuget\\packages\\opentelemetry.api\\1.9.0\\opentelemetry.api.1.9.0.nupkg.sha512",
-    "C:\\Users\\ketin\\.nuget\\packages\\opentelemetry.api.providerbuilderextensions\\1.9.0\\opentelemetry.api.providerbuilderextensions.1.9.0.nupkg.sha512",
-    "C:\\Users\\ketin\\.nuget\\packages\\opentelemetry.exporter.opentelemetryprotocol\\1.9.0\\opentelemetry.exporter.opentelemetryprotocol.1.9.0.nupkg.sha512",
+    "C:\\Users\\ketin\\.nuget\\packages\\opentelemetry\\1.10.0\\opentelemetry.1.10.0.nupkg.sha512",
+    "C:\\Users\\ketin\\.nuget\\packages\\opentelemetry.api\\1.10.0\\opentelemetry.api.1.10.0.nupkg.sha512",
+    "C:\\Users\\ketin\\.nuget\\packages\\opentelemetry.api.providerbuilderextensions\\1.10.0\\opentelemetry.api.providerbuilderextensions.1.10.0.nupkg.sha512",
+    "C:\\Users\\ketin\\.nuget\\packages\\opentelemetry.exporter.opentelemetryprotocol\\1.10.0\\opentelemetry.exporter.opentelemetryprotocol.1.10.0.nupkg.sha512",
+    "C:\\Users\\ketin\\.nuget\\packages\\opentelemetry.exporter.prometheus.aspnetcore\\1.10.0-beta.1\\opentelemetry.exporter.prometheus.aspnetcore.1.10.0-beta.1.nupkg.sha512",
+    "C:\\Users\\ketin\\.nuget\\packages\\opentelemetry.extensions.hosting\\1.10.0\\opentelemetry.extensions.hosting.1.10.0.nupkg.sha512",
+    "C:\\Users\\ketin\\.nuget\\packages\\opentelemetry.instrumentation.aspnetcore\\1.10.0\\opentelemetry.instrumentation.aspnetcore.1.10.0.nupkg.sha512",
+    "C:\\Users\\ketin\\.nuget\\packages\\opentelemetry.instrumentation.http\\1.10.0\\opentelemetry.instrumentation.http.1.10.0.nupkg.sha512",
+    "C:\\Users\\ketin\\.nuget\\packages\\opentelemetry.instrumentation.runtime\\1.10.0\\opentelemetry.instrumentation.runtime.1.10.0.nupkg.sha512",
+    "C:\\Users\\ketin\\.nuget\\packages\\polly.core\\8.4.2\\polly.core.8.4.2.nupkg.sha512",
+    "C:\\Users\\ketin\\.nuget\\packages\\polly.extensions\\8.4.2\\polly.extensions.8.4.2.nupkg.sha512",
+    "C:\\Users\\ketin\\.nuget\\packages\\polly.ratelimiting\\8.4.2\\polly.ratelimiting.8.4.2.nupkg.sha512",
     "C:\\Users\\ketin\\.nuget\\packages\\system.clientmodel\\1.5.1\\system.clientmodel.1.5.1.nupkg.sha512",
     "C:\\Users\\ketin\\.nuget\\packages\\system.codedom\\9.0.0\\system.codedom.9.0.0.nupkg.sha512",
     "C:\\Users\\ketin\\.nuget\\packages\\system.composition\\9.0.0\\system.composition.9.0.0.nupkg.sha512",
@@ -180,5 +199,18 @@
     "C:\\Users\\ketin\\.nuget\\packages\\system.windows.extensions\\9.0.0\\system.windows.extensions.9.0.0.nupkg.sha512",
     "C:\\Users\\ketin\\.nuget\\packages\\yamldotnet\\15.1.4\\yamldotnet.15.1.4.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'OpenTelemetry.Api' 1.10.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-8785-wc3w-h8q6",
+      "projectPath": "C:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud2\\apideploy\\src\\PublicApi\\PublicApi.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud2\\apideploy\\src\\PublicApi\\PublicApi.csproj",
+      "libraryId": "OpenTelemetry.Api",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }

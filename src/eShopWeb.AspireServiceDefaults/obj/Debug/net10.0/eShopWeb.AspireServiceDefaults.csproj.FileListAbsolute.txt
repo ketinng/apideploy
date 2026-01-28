@@ -1,0 +1,13 @@
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\eShopWeb.AspireServiceDefaults\bin\Debug\net10.0\eShopWeb.AspireServiceDefaults.deps.json
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\eShopWeb.AspireServiceDefaults\bin\Debug\net10.0\eShopWeb.AspireServiceDefaults.dll
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\eShopWeb.AspireServiceDefaults\bin\Debug\net10.0\eShopWeb.AspireServiceDefaults.pdb
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\eShopWeb.AspireServiceDefaults\obj\Debug\net10.0\eShopWeb.AspireServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\eShopWeb.AspireServiceDefaults\obj\Debug\net10.0\eShopWeb.AspireServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\eShopWeb.AspireServiceDefaults\obj\Debug\net10.0\eShopWeb.AspireServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\eShopWeb.AspireServiceDefaults\obj\Debug\net10.0\eShopWeb.AspireServiceDefaults.AssemblyInfo.cs
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\eShopWeb.AspireServiceDefaults\obj\Debug\net10.0\eShopWeb.AspireServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\eShopWeb.AspireServiceDefaults\obj\Debug\net10.0\eShopWeb.AspireServiceDefaults.sourcelink.json
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\eShopWeb.AspireServiceDefaults\obj\Debug\net10.0\eShopWeb.AspireServiceDefaults.dll
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\eShopWeb.AspireServiceDefaults\obj\Debug\net10.0\refint\eShopWeb.AspireServiceDefaults.dll
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\eShopWeb.AspireServiceDefaults\obj\Debug\net10.0\eShopWeb.AspireServiceDefaults.pdb
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\eShopWeb.AspireServiceDefaults\obj\Debug\net10.0\ref\eShopWeb.AspireServiceDefaults.dll
