@@ -3,6 +3,7 @@ using FastEndpoints;
 using FastEndpoints.Swagger;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Identity;
+//using Microsoft.eShopWeb.AspireServiceDefaults;
 using Microsoft.eShopWeb.Infrastructure;
 using Microsoft.eShopWeb.Infrastructure.Identity;
 using Microsoft.eShopWeb.PublicApi;
@@ -17,7 +18,7 @@ using NimblePros.Metronome;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add service defaults & Aspire components.
-builder.AddAspireServiceDefaults();
+//builder.AddAspireServiceDefaults();
 
 builder.Services.AddFastEndpoints();
 

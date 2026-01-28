@@ -1,0 +1,16 @@
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\ApplicationCore\bin\Debug\net10.0\ApplicationCore.deps.json
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\ApplicationCore\bin\Debug\net10.0\ApplicationCore.dll
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\ApplicationCore\bin\Debug\net10.0\ApplicationCore.pdb
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\ApplicationCore\bin\Debug\net10.0\BlazorShared.dll
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\ApplicationCore\bin\Debug\net10.0\BlazorShared.pdb
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\ApplicationCore\obj\Debug\net10.0\ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\ApplicationCore\obj\Debug\net10.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\ApplicationCore\obj\Debug\net10.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\ApplicationCore\obj\Debug\net10.0\ApplicationCore.AssemblyInfo.cs
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\ApplicationCore\obj\Debug\net10.0\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\ApplicationCore\obj\Debug\net10.0\ApplicationCore.sourcelink.json
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\ApplicationCore\obj\Debug\net10.0\Applicat.71DDEAC9.Up2Date
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\ApplicationCore\obj\Debug\net10.0\ApplicationCore.dll
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\ApplicationCore\obj\Debug\net10.0\refint\ApplicationCore.dll
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\ApplicationCore\obj\Debug\net10.0\ApplicationCore.pdb
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\ApplicationCore\obj\Debug\net10.0\ref\ApplicationCore.dll

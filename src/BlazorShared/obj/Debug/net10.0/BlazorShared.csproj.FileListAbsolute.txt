@@ -1,0 +1,13 @@
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\BlazorShared\bin\Debug\net10.0\BlazorShared.deps.json
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\BlazorShared\bin\Debug\net10.0\BlazorShared.dll
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\BlazorShared\bin\Debug\net10.0\BlazorShared.pdb
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\BlazorShared\obj\Debug\net10.0\BlazorShared.csproj.AssemblyReference.cache
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\BlazorShared\obj\Debug\net10.0\BlazorShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\BlazorShared\obj\Debug\net10.0\BlazorShared.AssemblyInfoInputs.cache
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\BlazorShared\obj\Debug\net10.0\BlazorShared.AssemblyInfo.cs
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\BlazorShared\obj\Debug\net10.0\BlazorShared.csproj.CoreCompileInputs.cache
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\BlazorShared\obj\Debug\net10.0\BlazorShared.sourcelink.json
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\BlazorShared\obj\Debug\net10.0\BlazorShared.dll
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\BlazorShared\obj\Debug\net10.0\refint\BlazorShared.dll
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\BlazorShared\obj\Debug\net10.0\BlazorShared.pdb
+C:\Users\ketin\OneDrive\Desktop\EPAM_Cloud2\apideploy\src\BlazorShared\obj\Debug\net10.0\ref\BlazorShared.dll
