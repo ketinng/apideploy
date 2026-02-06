@@ -62,6 +62,8 @@ builder.AddSeqEndpoint(connectionName: "seq", options =>
 
 var app = builder.Build();
 
+throw new Exception("Cannot move further");
+
 app.Logger.LogInformation("PublicApi App created...");
 
 await app.SeedDatabaseAsync();
