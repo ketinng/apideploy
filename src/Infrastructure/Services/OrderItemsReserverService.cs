@@ -77,27 +77,23 @@ public class OrderItemsReserverService : IOrderItemsReserverService
                 requestUrl = $"{requestUrl}{separator}code={_settings.FunctionKey}";
             }
 
-            // TODO: Uncomment when Azure Function is deployed and configured
             // Make HTTP POST request to Azure Function
-            // var response = await _httpClient.PostAsync(requestUrl, content);
+            var response = await _httpClient.PostAsync(requestUrl, content);
             
-            // if (!response.IsSuccessStatusCode)
-            // {
-            //     var errorContent = await response.Content.ReadAsStringAsync();
-            //     _logger.LogError(
-            //         "Failed to reserve order items. Order ID: {OrderId}, Status Code: {StatusCode}, Error: {Error}",
-            //         order.Id,
-            //         response.StatusCode,
-            //         errorContent);
-            //     throw new HttpRequestException($"Order items reservation failed with status code: {response.StatusCode}");
-            // }
+            if (!response.IsSuccessStatusCode)
+            {
+                var errorContent = await response.Content.ReadAsStringAsync();
+                _logger.LogError(
+                    "Failed to reserve order items. Order ID: {OrderId}, Status Code: {StatusCode}, Error: {Error}",
+                    order.Id,
+                    response.StatusCode,
+                    errorContent);
+                throw new HttpRequestException($"Order items reservation failed with status code: {response.StatusCode}");
+            }
 
             _logger.LogInformation(
                 "Successfully sent order reservation request for Order ID: {OrderId}",
                 order.Id);
-
-            // Placeholder: Simulating successful call
-            await Task.CompletedTask;
         }
         catch (Exception ex)
         {
