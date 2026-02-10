@@ -18,17 +18,21 @@ public class OrderService : IOrderService
     private readonly IRepository<Basket> _basketRepository;
     private readonly IRepository<CatalogItem> _itemRepository;
     private readonly IMediator _mediator;
+    private readonly IOrderItemsReserverService _orderItemsReserverService;
 
     public OrderService(IRepository<Basket> basketRepository,
         IRepository<CatalogItem> itemRepository,
         IRepository<Order> orderRepository,
-        IUriComposer uriComposer, IMediator mediator)
+        IUriComposer uriComposer, 
+        IMediator mediator,
+        IOrderItemsReserverService orderItemsReserverService)
     {
         _orderRepository = orderRepository;
         _uriComposer = uriComposer;
         _basketRepository = basketRepository;
         _itemRepository = itemRepository;
         _mediator = mediator;
+        _orderItemsReserverService = orderItemsReserverService;
     }
 
     public async Task CreateOrderAsync(int basketId, Address shippingAddress)
@@ -53,6 +57,10 @@ public class OrderService : IOrderService
         var order = new Order(basket.BuyerId, shippingAddress, items);
 
         await _orderRepository.AddAsync(order);
+        
+        // Send order details to Azure Function for warehouse reservation
+        await _orderItemsReserverService.ReserveOrderItemsAsync(order);
+        
         OrderCreatedEvent orderCreatedEvent = new OrderCreatedEvent(order);
         await _mediator.Publish(orderCreatedEvent);
     }

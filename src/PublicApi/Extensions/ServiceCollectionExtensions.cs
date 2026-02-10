@@ -8,8 +8,10 @@ using Microsoft.eShopWeb.ApplicationCore.Services;
 using Microsoft.eShopWeb.Infrastructure.Data;
 using Microsoft.eShopWeb.Infrastructure.Identity;
 using Microsoft.eShopWeb.Infrastructure.Logging;
+using Microsoft.eShopWeb.Infrastructure.Services;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using NSwag;
 
@@ -27,6 +29,19 @@ public static class ServiceCollectionExtensions
         services.AddSingleton<IUriComposer>(new UriComposer(catalogSettings));
         services.AddScoped(typeof(IAppLogger<>), typeof(LoggerAdapter<>));
         services.AddScoped<ITokenClaimsService, IdentityTokenClaimService>();
+        
+        // Configure OrderItemsReserver settings
+        services.Configure<OrderItemsReserverSettings>(
+            configuration.GetSection(OrderItemsReserverSettings.ConfigSectionName));
+        
+        // Register HttpClient for OrderItemsReserverService
+        services.AddHttpClient<IOrderItemsReserverService, OrderItemsReserverService>((serviceProvider, client) =>
+        {
+            var settings = serviceProvider.GetRequiredService<IOptions<OrderItemsReserverSettings>>().Value;
+            client.Timeout = TimeSpan.FromSeconds(settings.TimeoutSeconds);
+        });
+        
+        services.AddScoped<IOrderService, OrderService>();
     }
 
     public static void AddJwtAuthentication(this IServiceCollection services)

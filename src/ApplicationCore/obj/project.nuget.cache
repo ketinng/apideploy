@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SXxh04B3zBA=",
+  "dgSpecHash": "cUxtnFCavXw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud2\\apideploy\\src\\ApplicationCore\\ApplicationCore.csproj",
+  "projectFilePath": "C:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\ApplicationCore\\ApplicationCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ketin\\.nuget\\packages\\ardalis.guardclauses\\5.0.0\\ardalis.guardclauses.5.0.0.nupkg.sha512",
     "C:\\Users\\ketin\\.nuget\\packages\\ardalis.result\\10.1.0\\ardalis.result.10.1.0.nupkg.sha512",
