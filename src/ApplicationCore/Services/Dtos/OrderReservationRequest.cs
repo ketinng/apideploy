@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+
 namespace Microsoft.eShopWeb.ApplicationCore.Services.Dtos;
 
 /// <summary>
