@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\BlazorShared\\BlazorShared.csproj": {}
+    "c:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\BlazorShared\\BlazorShared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\BlazorShared\\BlazorShared.csproj": {
+    "c:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\BlazorShared\\BlazorShared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\BlazorShared\\BlazorShared.csproj",
+        "projectUniqueName": "c:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\BlazorShared\\BlazorShared.csproj",
         "projectName": "BlazorShared",
-        "projectPath": "C:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\BlazorShared\\BlazorShared.csproj",
+        "projectPath": "c:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\BlazorShared\\BlazorShared.csproj",
         "packagesPath": "C:\\Users\\ketin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\BlazorShared\\obj\\",
+        "outputPath": "c:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\BlazorShared\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "configFilePaths": [

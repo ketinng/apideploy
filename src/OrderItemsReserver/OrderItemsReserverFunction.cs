@@ -35,8 +35,12 @@ public class OrderItemsReserverFunction
 
         try
         {
-            // Parse the incoming order request
-            var orderRequest = await JsonSerializer.DeserializeAsync<OrderRequestDto>(req.Body);
+            // Parse the incoming order request with case-insensitive JSON
+            var jsonOptions = new JsonSerializerOptions
+            {
+                PropertyNameCaseInsensitive = true
+            };
+            var orderRequest = await JsonSerializer.DeserializeAsync<OrderRequestDto>(req.Body, jsonOptions);
 
             if (orderRequest == null)
             {

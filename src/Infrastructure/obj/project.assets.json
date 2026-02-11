@@ -2861,11 +2861,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "c:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "c:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\ketin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\Infrastructure\\obj\\",
+      "outputPath": "c:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "centralPackageVersionsManagementEnabled": true,
       "configFilePaths": [
@@ -2881,8 +2881,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\ApplicationCore\\ApplicationCore.csproj": {
-              "projectPath": "C:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\ApplicationCore\\ApplicationCore.csproj"
+            "c:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\ApplicationCore\\ApplicationCore.csproj": {
+              "projectPath": "c:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\ApplicationCore\\ApplicationCore.csproj"
             }
           }
         }

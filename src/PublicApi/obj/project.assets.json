@@ -9293,11 +9293,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\PublicApi\\PublicApi.csproj",
+      "projectUniqueName": "c:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\PublicApi\\PublicApi.csproj",
       "projectName": "PublicApi",
-      "projectPath": "C:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\PublicApi\\PublicApi.csproj",
+      "projectPath": "c:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\PublicApi\\PublicApi.csproj",
       "packagesPath": "C:\\Users\\ketin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\PublicApi\\obj\\",
+      "outputPath": "c:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\PublicApi\\obj\\",
       "projectStyle": "PackageReference",
       "centralPackageVersionsManagementEnabled": true,
       "configFilePaths": [
@@ -9313,14 +9313,14 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\ApplicationCore\\ApplicationCore.csproj": {
-              "projectPath": "C:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\ApplicationCore\\ApplicationCore.csproj"
+            "c:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\ApplicationCore\\ApplicationCore.csproj": {
+              "projectPath": "c:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\ApplicationCore\\ApplicationCore.csproj"
             },
-            "C:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\eShopWeb.AspireServiceDefaults\\eShopWeb.AspireServiceDefaults.csproj": {
-              "projectPath": "C:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\eShopWeb.AspireServiceDefaults\\eShopWeb.AspireServiceDefaults.csproj"
+            "c:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\eShopWeb.AspireServiceDefaults\\eShopWeb.AspireServiceDefaults.csproj": {
+              "projectPath": "c:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\eShopWeb.AspireServiceDefaults\\eShopWeb.AspireServiceDefaults.csproj"
             },
-            "C:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\Infrastructure\\Infrastructure.csproj"
+            "c:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "c:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

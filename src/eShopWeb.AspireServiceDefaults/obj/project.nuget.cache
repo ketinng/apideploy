@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P5fUfrtZrso=",
+  "dgSpecHash": "3yyZFFdn4JE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\eShopWeb.AspireServiceDefaults\\eShopWeb.AspireServiceDefaults.csproj",
+  "projectFilePath": "c:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\eShopWeb.AspireServiceDefaults\\eShopWeb.AspireServiceDefaults.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ketin\\.nuget\\packages\\google.protobuf\\3.22.5\\google.protobuf.3.22.5.nupkg.sha512",
     "C:\\Users\\ketin\\.nuget\\packages\\grpc.core.api\\2.52.0\\grpc.core.api.2.52.0.nupkg.sha512",
@@ -37,9 +37,9 @@
       "code": "NU1902",
       "level": "Warning",
       "message": "Package 'OpenTelemetry.Api' 1.10.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-8785-wc3w-h8q6",
-      "projectPath": "C:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\eShopWeb.AspireServiceDefaults\\eShopWeb.AspireServiceDefaults.csproj",
+      "projectPath": "c:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\eShopWeb.AspireServiceDefaults\\eShopWeb.AspireServiceDefaults.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\eShopWeb.AspireServiceDefaults\\eShopWeb.AspireServiceDefaults.csproj",
+      "filePath": "c:\\Users\\ketin\\OneDrive\\Desktop\\EPAM_Cloud\\apideploy\\src\\eShopWeb.AspireServiceDefaults\\eShopWeb.AspireServiceDefaults.csproj",
       "libraryId": "OpenTelemetry.Api",
       "targetGraphs": [
         "net10.0"
